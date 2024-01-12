@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qz7yjRSr2ha66EtJ79RQgViIjRVbK1ZkeajkDRg0YbzdY581V7kWjfl94eGZ0ushicbcQmS8Cjsdnb/J9R8K6w==",
+  "success": true,
+  "projectFilePath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Projects\\StudentGrading2\\StudentGrading2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\bin\Debug\net7.0\Concats.exe
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\bin\Debug\net7.0\Concats.deps.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\bin\Debug\net7.0\Concats.runtimeconfig.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\bin\Debug\net7.0\Concats.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\bin\Debug\net7.0\Concats.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\Concats.GeneratedMSBuildEditorConfig.editorconfig
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\Concats.AssemblyInfoInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\Concats.AssemblyInfo.cs
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\Concats.csproj.CoreCompileInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\Concats.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\refint\Concats.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\Concats.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\Concats.genruntimeconfig.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Concats\obj\Debug\net7.0\ref\Concats.dll

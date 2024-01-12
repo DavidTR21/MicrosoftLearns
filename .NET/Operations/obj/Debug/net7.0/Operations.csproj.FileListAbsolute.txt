@@ -1,0 +1,14 @@
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\bin\Debug\net7.0\Operations.exe
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\bin\Debug\net7.0\Operations.deps.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\bin\Debug\net7.0\Operations.runtimeconfig.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\bin\Debug\net7.0\Operations.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\bin\Debug\net7.0\Operations.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\Operations.AssemblyInfoInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\Operations.AssemblyInfo.cs
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\Operations.csproj.CoreCompileInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\Operations.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\refint\Operations.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\Operations.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\Operations.genruntimeconfig.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Operations\obj\Debug\net7.0\ref\Operations.dll

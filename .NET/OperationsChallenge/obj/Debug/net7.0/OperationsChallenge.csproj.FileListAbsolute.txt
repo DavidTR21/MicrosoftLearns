@@ -1,0 +1,14 @@
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\bin\Debug\net7.0\OperationsChallenge.exe
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\bin\Debug\net7.0\OperationsChallenge.deps.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\bin\Debug\net7.0\OperationsChallenge.runtimeconfig.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\bin\Debug\net7.0\OperationsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\bin\Debug\net7.0\OperationsChallenge.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\OperationsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\OperationsChallenge.AssemblyInfoInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\OperationsChallenge.AssemblyInfo.cs
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\OperationsChallenge.csproj.CoreCompileInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\OperationsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\refint\OperationsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\OperationsChallenge.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\OperationsChallenge.genruntimeconfig.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\OperationsChallenge\obj\Debug\net7.0\ref\OperationsChallenge.dll

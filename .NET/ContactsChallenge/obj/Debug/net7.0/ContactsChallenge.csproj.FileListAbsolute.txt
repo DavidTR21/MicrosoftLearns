@@ -1,0 +1,14 @@
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\bin\Debug\net7.0\ContactsChallenge.exe
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\bin\Debug\net7.0\ContactsChallenge.deps.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\bin\Debug\net7.0\ContactsChallenge.runtimeconfig.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\bin\Debug\net7.0\ContactsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\bin\Debug\net7.0\ContactsChallenge.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ContactsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ContactsChallenge.AssemblyInfoInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ContactsChallenge.AssemblyInfo.cs
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ContactsChallenge.csproj.CoreCompileInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ContactsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\refint\ContactsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ContactsChallenge.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ContactsChallenge.genruntimeconfig.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ContactsChallenge\obj\Debug\net7.0\ref\ContactsChallenge.dll

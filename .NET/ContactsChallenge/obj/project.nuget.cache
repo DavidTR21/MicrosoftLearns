@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAxD41J5NMqtjEhOYu3W9qzXXS6xoPj34JOhGPuuP7hp18DRh4Cvq/5VPWokUZ0LP9H8nPVmeKcaPUg0tWVj3g==",
+  "success": true,
+  "projectFilePath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ContactsChallenge\\ContactsChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\dtrwo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

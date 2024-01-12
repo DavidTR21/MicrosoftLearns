@@ -1,0 +1,14 @@
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\bin\Debug\net7.0\StudentGrading2.exe
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\bin\Debug\net7.0\StudentGrading2.deps.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\bin\Debug\net7.0\StudentGrading2.runtimeconfig.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\bin\Debug\net7.0\StudentGrading2.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\bin\Debug\net7.0\StudentGrading2.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\StudentGrading2.GeneratedMSBuildEditorConfig.editorconfig
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\StudentGrading2.AssemblyInfoInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\StudentGrading2.AssemblyInfo.cs
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\StudentGrading2.csproj.CoreCompileInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\StudentGrading2.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\refint\StudentGrading2.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\StudentGrading2.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\StudentGrading2.genruntimeconfig.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\Projects\StudentGrading2\obj\Debug\net7.0\ref\StudentGrading2.dll

@@ -1,0 +1,14 @@
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\bin\Debug\net7.0\ConsoleApps.exe
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\bin\Debug\net7.0\ConsoleApps.deps.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\bin\Debug\net7.0\ConsoleApps.runtimeconfig.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\bin\Debug\net7.0\ConsoleApps.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\bin\Debug\net7.0\ConsoleApps.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ConsoleApps.AssemblyInfoInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ConsoleApps.AssemblyInfo.cs
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ConsoleApps.csproj.CoreCompileInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ConsoleApps.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\refint\ConsoleApps.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ConsoleApps.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ConsoleApps.genruntimeconfig.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ConsoleApps\obj\Debug\net7.0\ref\ConsoleApps.dll
