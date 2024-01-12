@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGrading", "Projects\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGrading2", "Projects\StudentGrading2\StudentGrading2.csproj", "{5DD15C66-A976-4878-B2FA-3A2AB4EFAC7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodCalls", "MethodCalls\MethodCalls.csproj", "{8C9C80A7-9E83-4E62-B867-8E532B1CFDA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{5DD15C66-A976-4878-B2FA-3A2AB4EFAC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DD15C66-A976-4878-B2FA-3A2AB4EFAC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DD15C66-A976-4878-B2FA-3A2AB4EFAC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9C80A7-9E83-4E62-B867-8E532B1CFDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9C80A7-9E83-4E62-B867-8E532B1CFDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9C80A7-9E83-4E62-B867-8E532B1CFDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9C80A7-9E83-4E62-B867-8E532B1CFDA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C66814D4-316B-481E-BAF6-8902673BACB5} = {A3575026-B975-4A1E-8D36-B445CB05E1DE}

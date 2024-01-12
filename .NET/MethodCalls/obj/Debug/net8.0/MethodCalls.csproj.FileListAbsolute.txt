@@ -1,0 +1,15 @@
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\bin\Debug\net8.0\MethodCalls.exe
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\bin\Debug\net8.0\MethodCalls.deps.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\bin\Debug\net8.0\MethodCalls.runtimeconfig.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\bin\Debug\net8.0\MethodCalls.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\bin\Debug\net8.0\MethodCalls.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.GeneratedMSBuildEditorConfig.editorconfig
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.AssemblyInfoInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.AssemblyInfo.cs
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.csproj.CoreCompileInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.sourcelink.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\refint\MethodCalls.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\MethodCalls.genruntimeconfig.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\MethodCalls\obj\Debug\net8.0\ref\MethodCalls.dll
