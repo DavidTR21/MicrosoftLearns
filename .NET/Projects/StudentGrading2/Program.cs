@@ -61,7 +61,7 @@ totalGradePoints += course5Credit * course5Grade;
 
 // Calculamos GPA
 float finalGPA = (float)totalGradePoints / totalCreditHours;
-finalGPA = (float)System.Math.Round(finalGPA,2); // Usamos solo los dos primeros decimales
+finalGPA = (float)System.Math.Round(finalGPA,2); // Redondeamos con el método Round para obtener solo 2 decimales
 
 // Resultado por consola
 Console.WriteLine("Student: " + studentName + "\n");
