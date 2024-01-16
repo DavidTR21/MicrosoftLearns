@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj": {}
+    "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj": {}
   },
   "projects": {
-    "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj": {
+    "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj",
+        "projectUniqueName": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj",
         "projectName": "MethodCalls",
-        "projectPath": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj",
+        "projectPath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\MethodCalls.csproj",
         "packagesPath": "C:\\Users\\dtrwo\\.nuget\\packages\\",
-        "outputPath": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\obj\\",
+        "outputPath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\MethodCalls\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programas Varios\\Microsoft Visual Studio\\Shared\\NuGetPackages"

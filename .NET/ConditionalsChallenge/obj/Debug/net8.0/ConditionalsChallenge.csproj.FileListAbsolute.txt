@@ -1,0 +1,15 @@
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\bin\Debug\net8.0\ConditionalsChallenge.exe
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\bin\Debug\net8.0\ConditionalsChallenge.deps.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\bin\Debug\net8.0\ConditionalsChallenge.runtimeconfig.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\bin\Debug\net8.0\ConditionalsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\bin\Debug\net8.0\ConditionalsChallenge.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.AssemblyInfoInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.AssemblyInfo.cs
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.csproj.CoreCompileInputs.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.sourcelink.json
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\refint\ConditionalsChallenge.dll
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.pdb
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ConditionalsChallenge.genruntimeconfig.cache
+e:\COSAS\Cursos\MicrosoftLearns\.NET\ConditionalsChallenge\obj\Debug\net8.0\ref\ConditionalsChallenge.dll
