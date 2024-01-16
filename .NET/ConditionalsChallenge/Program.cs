@@ -25,6 +25,8 @@
 // La solución debe usar las instrucciones if e if-else independientes para implementar las reglas de negocio. 
 // La instrucción if-else puede incluir varias partes else if.
 
+using System.Runtime.CompilerServices;
+
 Random random = new Random();
 int daysUntilExpiration = random.Next(12);
 int discountPercentage = 0;
@@ -53,7 +55,6 @@ if (daysUntilExpiration <= 10)
         Console.WriteLine("Your subscription has expired.");
     }
 }
-
 // PRUEBAS
 // int daysUntilExpiration = {days_here};
 // Console.WriteLine($"{daysUntilExpiration}");
