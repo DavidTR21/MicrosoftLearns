@@ -1,0 +1,15 @@
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\bin\Debug\net8.0\ForEachChallenge.exe
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\bin\Debug\net8.0\ForEachChallenge.deps.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\bin\Debug\net8.0\ForEachChallenge.runtimeconfig.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\bin\Debug\net8.0\ForEachChallenge.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\bin\Debug\net8.0\ForEachChallenge.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.AssemblyInfoInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.AssemblyInfo.cs
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.csproj.CoreCompileInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.sourcelink.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\refint\ForEachChallenge.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ForEachChallenge.genruntimeconfig.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEachChallenge\obj\Debug\net8.0\ref\ForEachChallenge.dll

@@ -1,0 +1,15 @@
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\bin\Debug\net8.0\ForEach.exe
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\bin\Debug\net8.0\ForEach.deps.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\bin\Debug\net8.0\ForEach.runtimeconfig.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\bin\Debug\net8.0\ForEach.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\bin\Debug\net8.0\ForEach.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfoInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.AssemblyInfo.cs
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.csproj.CoreCompileInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.sourcelink.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\refint\ForEach.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ForEach.genruntimeconfig.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\ForEach\obj\Debug\net8.0\ref\ForEach.dll

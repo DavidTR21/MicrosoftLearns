@@ -1,0 +1,15 @@
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\COSAS\Cursos\MicrosoftLearns\.NET\Arrays\obj\Debug\net8.0\ref\Arrays.dll
