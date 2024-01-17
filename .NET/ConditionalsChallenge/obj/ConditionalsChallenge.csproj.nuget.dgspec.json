@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj": {}
+    "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj": {}
   },
   "projects": {
-    "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj": {
+    "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj",
+        "projectUniqueName": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj",
         "projectName": "ConditionalsChallenge",
-        "projectPath": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj",
+        "projectPath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\ConditionalsChallenge.csproj",
         "packagesPath": "C:\\Users\\dtrwo\\.nuget\\packages\\",
-        "outputPath": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\obj\\",
+        "outputPath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\ConditionalsChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programas Varios\\Microsoft Visual Studio\\Shared\\NuGetPackages"

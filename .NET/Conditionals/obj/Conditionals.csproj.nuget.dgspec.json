@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj": {}
+    "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj": {}
   },
   "projects": {
-    "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj": {
+    "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj",
+        "projectUniqueName": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj",
         "projectName": "Conditionals",
-        "projectPath": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj",
+        "projectPath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\Conditionals.csproj",
         "packagesPath": "C:\\Users\\dtrwo\\.nuget\\packages\\",
-        "outputPath": "e:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\obj\\",
+        "outputPath": "E:\\COSAS\\Cursos\\MicrosoftLearns\\.NET\\Conditionals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programas Varios\\Microsoft Visual Studio\\Shared\\NuGetPackages"
