@@ -1,0 +1,14 @@
+D:\David T\Escritorio\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\David T\Escritorio\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\David T\Escritorio\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\David T\Escritorio\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\David T\Escritorio\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\David T\Escritorio\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll

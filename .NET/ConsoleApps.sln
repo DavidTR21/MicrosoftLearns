@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach", "ForEach\ForEach.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachChallenge", "ForEachChallenge\ForEachChallenge.csproj", "{8E9496E0-BD98-4BEE-A8EB-BAE557A317D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGrading3", "Projects\StudentGrading3\StudentGrading3.csproj", "{38F521C9-5AFF-4689-87AA-46140BD5799A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,9 +100,14 @@ Global
 		{8E9496E0-BD98-4BEE-A8EB-BAE557A317D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9496E0-BD98-4BEE-A8EB-BAE557A317D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E9496E0-BD98-4BEE-A8EB-BAE557A317D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F521C9-5AFF-4689-87AA-46140BD5799A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F521C9-5AFF-4689-87AA-46140BD5799A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F521C9-5AFF-4689-87AA-46140BD5799A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F521C9-5AFF-4689-87AA-46140BD5799A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C66814D4-316B-481E-BAF6-8902673BACB5} = {A3575026-B975-4A1E-8D36-B445CB05E1DE}
 		{5DD15C66-A976-4878-B2FA-3A2AB4EFAC7F} = {A3575026-B975-4A1E-8D36-B445CB05E1DE}
+		{38F521C9-5AFF-4689-87AA-46140BD5799A} = {A3575026-B975-4A1E-8D36-B445CB05E1DE}
 	EndGlobalSection
 EndGlobal
